@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 660911240, guid: f624596d5fe1bd5459a5da424a8abc1b, type: 3}
+  m_Name: TheBackendSettings
+  m_EditorClassIdentifier: 
+  clientAppID: e8786cf0-c36d-11eb-82f8-f5ff31b21f9b2245
+  signatureKey: e8786cf1-c36d-11eb-82f8-f5ff31b21f9b2245
+  functionAuthKey: 
+  packageName: com.DefaultCompany.VR
+  isAllPlatform: 1
+  sendLogReport: 1
+  timeOutSec: 100
+  Version: 5.4.3
